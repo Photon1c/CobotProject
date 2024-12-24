@@ -1,0 +1,3 @@
+Contents of this directory:\
+
+STT_AI.ipynb is a Speech to Text summarization set of functions that uses Open AI to describe audio, whose duration is determined by the user.
