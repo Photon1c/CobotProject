@@ -3,3 +3,5 @@ Contents of this directory:\
 STT_AI.ipynb is a Speech to Text summarization set of functions that uses Open AI to describe audio, whose duration is determined by the user.
 
 Tinytroupe_analyzer.py is a sample use of Microsoft's TinyTroupe to instantiate LLM agent conversations.
+
+Vision_AI.ipynb uses Open AI's Vision capabilities to describe a sample image.
