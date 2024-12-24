@@ -1,9 +1,10 @@
 # CobotProject
 A Cobot is like a coworker, but it is entirely based on a language model. Check back soon for this project to be updated with working samples.
 \
+\
 ![SCreenshot of a Cobot](/media/Cobot.webp)
 \
-## Index\
+## Index
 
 STT_AI.pynb is a jupyter notebook that contains a working sample of the Speech to Text LLM summarization task. (Currently tested and working)\
 \
