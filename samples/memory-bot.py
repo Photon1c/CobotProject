@@ -12,9 +12,7 @@ load_dotenv()
 client = OpenAI()
 
 # Initialize chat log
-start_chat_log = '''Human: Hello, who are you?
-AI: I am an AI assistant. How can I help you today?
-'''
+start_chat_log = ''''''
 
 # Pretty printer for formatted output
 pp = pprint.PrettyPrinter(indent=2)
