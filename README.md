@@ -3,7 +3,7 @@ A Cobot is like a coworker, but it is entirely based on a language model. Check 
 
 # Update 2.24.25
 
-🧠 ChatMemory Pro: Your AI Conversation Companion! 💬✨ This smart script creates a seamless chat experience with AI that actually remembers your conversations! 🤯 It saves your entire chat history 📚 while cleverly summarizing older parts to keep costs down 💰⬇️. With pretty-printed responses 🎨, automatic saving 💾, and intelligent memory management 🧩, you'll never lose an important conversation again! The dual-LLM system acts like your personal AI secretary 🤖👔 - one part chats while the other organizes memories! Perfect for students 🎓, developers 👩‍💻, researchers 🔬, or anyone who wants meaningful, continuous conversations with AI without breaking the bank! 💪🚀 [Check it out!](/samples/chatbot-with-memory.py)  
+🧠 MemoryBot: Your AI Conversation Companion! 💬✨ This smart script creates a seamless chat experience with AI that actually remembers your conversations! 🤯 It saves your entire chat history 📚 while cleverly summarizing older parts to keep costs down 💰⬇️. With pretty-printed responses 🎨, automatic saving 💾, and intelligent memory management 🧩, you'll never lose an important conversation again! The dual-LLM system acts like your personal AI secretary 🤖👔 - one part chats while the other organizes memories! Perfect for students 🎓, developers 👩‍💻, researchers 🔬, or anyone who wants meaningful, continuous conversations with AI without breaking the bank! 💪🚀 [Check it out!](/samples/chatbot-with-memory.py)  
 
 ![SCreenshot of a Cobot](/media/Cobot.webp)
 
