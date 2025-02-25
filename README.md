@@ -13,7 +13,7 @@ A Cobot is like a coworker, but it is entirely based on a language model. Check 
   
 ## Index
 
-2.24.25 - [chatbot-with-memory.py](/samples/memory-bot.py) is a recently released script that deploys a powerful memory capable agent to store conversations for later analysis. It also uses recursive recalling to build memory states from summaries of previous memory states (An inception of LLM agents, one summarizing and another interacting with the user).  
+2.24.25 - [memory-bot.py](/samples/memory-bot.py) is a recently released script that deploys a powerful memory capable agent to store conversations for later analysis. It also uses recursive recalling to build memory states from summaries of previous memory states (An inception of LLM agents, one summarizing and another interacting with the user).  
 
 [STT_AI.ipynb](/samples/STT_AI.pynb) is a jupyter notebook that contains a working sample of the Speech to Text LLM summarization task. (Currently tested and working.)\
 \
