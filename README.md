@@ -1,6 +1,12 @@
 # Cobot Project
 A Cobot is like a coworker, but it is entirely based on a language model. Check back soon for this project to be updated with working samples.  
 
+# Update 3.6.25
+
+🤖 Cloudfare "worker" [agents](https://github.com/cloudflare/agents) can now be deployed and combined with Google's new [Generative AI Toolbox](https://googleapis.github.io/genai-toolbox). The result is a worker that can access tools like SQL databases, email, calendar, and so on. The aims of this project will adhere to the human-in-the-loop process flow outlined in Cloudfare's documentation:
+
+![Human-in-the-Loop](https://developers.cloudflare.com/_astro/human-in-the-loop.Bx0axRJl_Z1cWd5M.svg)
+
 # Update 2.24.25
 
 🧠 MemoryBot: Your AI Conversation Companion! 💬✨ This smart script creates a seamless chat experience with AI that actually remembers your conversations! 🤯 It saves your entire chat history 📚 while cleverly summarizing older parts to keep costs down 💰⬇️. With pretty-printed responses 🎨, automatic saving 💾, and intelligent memory management 🧩, you'll never lose an important conversation again! The dual-LLM system acts like your personal AI secretary 🤖👔 - one part chats while the other organizes memories! Perfect for students 🎓, developers 👩‍💻, researchers 🔬, or anyone who wants meaningful, continuous conversations with AI without breaking the bank! 💪🚀 [Check it out!](/samples/memory-bot.py)  
