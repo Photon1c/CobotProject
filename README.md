@@ -7,7 +7,7 @@ A Cobot is like a coworker, but it is entirely based on a language model. Check 
 
 🤖 Cloudfare "worker" [agents](https://github.com/cloudflare/agents) can now be deployed and combined with Google's new [Generative AI Toolbox](https://googleapis.github.io/genai-toolbox). The result is a worker that can access tools like SQL databases, email, calendar, and so on. The aims of this project will adhere to the human-in-the-loop process flow outlined in Cloudfare's documentation:
 
-![Human-in-the-Loop][(https://developers.cloudflare.com/_astro/human-in-the-loop.Bx0axRJl_Z1cWd5M.svg](https://developers.cloudflare.com/_astro/human-in-the-loop.Bx0axRJl_1vt7N8.svg)
+![Human-in-the-Loop](https://developers.cloudflare.com/_astro/human-in-the-loop.Bx0axRJl_Z1cWd5M.svg](https://developers.cloudflare.com/_astro/human-in-the-loop.Bx0axRJl_1vt7N8.svg)
 
 # Update 2.24.25
 
